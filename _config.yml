@@ -2,7 +2,7 @@
 title:               Kitson Swann
 tagline:             my Data Science Blog
 description:
-baseurl:            #""
+baseurl:            
 url:                #"https://kitsonswann.github.io"
 github:
   url:               "https://kitsonswann.github.io/kitsonswann.github.io"
