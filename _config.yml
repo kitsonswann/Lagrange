@@ -5,7 +5,7 @@ description:
 baseurl:
 url:                #"https://kitsonswann.github.io"
 github:
-  url:               "https://github.com/kitsonswann"
+  url:               "https://kitsonswann.github.io/kitsonswann.github.io"
 author:
   name:              "Kitson Swann"
   email:             "kptswann@gmail.com"
